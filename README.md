@@ -2,15 +2,14 @@
 
 A simple point of sale application built using react &amp; node.js.
 
-** This is still work in progress **
+## Note
 
-## Current update 
-Currently I am working on the following updates
-- Migrating the backend to Elixir-Phoenix
-- Updating the material-ui to latest release
-- Use NextJs, Redux, Saga, Typescript.
-- Create a road map.
-- Create a project site with github pages.
+This is still work in progress
+
+## To run the current code in development mode
+
+1. Run `yarn` and then `yarn dev:web` in the project root.
+2. Navigate to the `api` folder and then run `yarn`, then `yarn dev:api`.
 
 ## Some screenshots
 
